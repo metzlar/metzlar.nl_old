@@ -1,5 +1,11 @@
 /*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
 
+/*
+    light color:         #f16529 #5B9CA2
+    dark color:          #e44d26 #B52735
+    background color:    #ffffff #F5F1D8
+    */
+
 html,
 button,
 input,
@@ -11,6 +17,7 @@ textarea {
 html {
     font-size: 1em;
     line-height: 1.4;
+    background-color: #F5F1D8;
 }
 
 ::-moz-selection {
@@ -21,6 +28,16 @@ html {
 ::selection {
     background: #b3d4fc;
     text-shadow: none;
+}
+
+a {
+    color: #B52735;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 hr {
@@ -75,18 +92,18 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #e44d26;
+    border-bottom: 20px solid #B52735;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    border-top: 20px solid #B52735;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #5B9CA2;
 }
 
 .title {
@@ -112,7 +129,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #e44d26;
+    background: #B52735;
 }
 
 nav a:hover,
