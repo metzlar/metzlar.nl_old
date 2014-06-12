@@ -108,6 +108,10 @@ body {
 
 .title {
     color: white;
+    font-family: 'ChunkFiveRegular';
+    font-weight: normal;
+    font-size: 4em;
+    margin-bottom: 20px;
 }
 
 /* ==============
