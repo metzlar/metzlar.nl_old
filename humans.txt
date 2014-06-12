@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ivan Metzlar -- Software Engineer -- http://twitter.com/ivanmetzlar
+
+# THANKS
+
+    Ivan Metzlar
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
