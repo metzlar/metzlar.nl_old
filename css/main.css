@@ -79,8 +79,7 @@ textarea {
    ========================================================================== */
 
 body {
-    /*font: 16px/26px Helvetica, Helvetica Neue, Arial;*/
-    font-face: courier;
+    font-family: courier;
 }
 
 .wrapper {
