@@ -2,11 +2,8 @@
 **/*~
 **/*.pyc
 output/
-Makefile
 develop\_server\.sh
 fabfile\.py
 pelican-plugins/
 pelican-themes/
 **/*.pid
-pelicanconf.py
-publishconf.py
