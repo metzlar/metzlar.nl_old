@@ -8,20 +8,17 @@ This is a list of my engineering skills:
  *  Python
  *  JavaScript
  *  Go
- *  Java, C#
  *  bash, sh
- *  SQL
- *  MUMPS
- *  C, C++
- *  lisp, perl
- *  prolog, funprog
+ *  Java, C#
 
 ### Frameworks/Techniques
 
+* Git
+* Asp.NET 4+
+* MS IdentityFramework 6
 * SQLAlchemy
 * Django
 * Flask
-* Git
 * jQuery
 * Google AppEngine
 * Percona mysql xtradb
@@ -32,10 +29,10 @@ This is a list of my engineering skills:
 ### Systems/Environments
 
 * Amazon Web services - EC2, S3
-* Google AppEngine
 * BSD/Ubuntu/Debian/OSX
+* MS Windows 7+
 
-### Management skills
+### Management
 
 * Agile project management using SCRUM and continuous integration.
 * Test driven development.
@@ -49,11 +46,16 @@ This is a list of my engineering skills:
 
 ### Tools
 
+* Emacs
+* Git
+* TeamCity
+* Docker
+* Docker-Compose
+* Consul/Terraform/Vagrant
 * Fogbugz/Trello/Harvest
 * Rietveld/Github
 * pep8.py, pylint, pyflakes
 * Google Apps & Docs
-* Emacs/PyCharm
 
 ### Interests
 
