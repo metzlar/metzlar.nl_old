@@ -1,4 +1,4 @@
 metzlar.github.io
 =================
 
-Metzlar.nl
+This repository contains sources for http://www.metzlar.nl
