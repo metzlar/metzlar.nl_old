@@ -6,6 +6,6 @@ My name is Ivan Metzlar. I am a Software Engineer interested in web/internet tec
 
 I have been working in web development since 1999 and management/mentorship since 2008. I have contributed to complex, large scale, high available systems. [Here]({filename}skills.md) is a list of my engineering skills.
 
-I am currently located in Kelowna, British Columbia, Canada I am working for a medical software startup <a href="http://vistacan.com">http://vistacan.com</a>.
+I am currently located in Victoria, British Columbia, Canada I am working on interesting projects for <a href="http://www.ingrooves.com/">www.ingrooves.com</a>.
 
 If you want to contact me, send me an email (<a href="mailto:metzlar@gmail.com">metzlar@gmail.com</a>) Do not hesitate to ask me any questions or give feedback on my open source work on <a href="http://github.com/metzlar">http://github.com/metzlar</a>
