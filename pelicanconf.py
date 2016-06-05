@@ -34,10 +34,10 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['/Users/ivan/Work/metzlar/src/metzlar/pelican-plugins']
+PLUGIN_PATHS = ['/home/ivan/metzlar.github.io/pelican-plugins']
 PLUGINS = ['assets', ] #'sitemap', 'gravatar']
 
-THEME = '/Users/ivan/Work/metzlar/src/metzlar/pelican-themes/ivan/'
+THEME = '/home/ivan/metzlar.github.io/pelican-themes/ivan/'
 
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
